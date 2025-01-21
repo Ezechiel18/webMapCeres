@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "haies agricoles",
+          "superficie": 3.50,
+          "année": 2021,
+          "région": "PACA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [6.0679, 43.9352]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "boisement",
+          "superficie": 4.20,
+          "année": 2020,
+          "région": "Occitanie"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [1.4442, 43.6047]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "haies agricoles",
+          "superficie": 2.75,
+          "année": 2022,
+          "région": "Auvergne-Rhône-Alpes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.85, 45.75]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "boisement",
+          "superficie": 1.80,
+          "année": 2023,
+          "région": "Bourgogne-Franche-Comté"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.0167, 47.3167]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "haies agricoles",
+          "superficie": 5.10,
+          "année": 2024,
+          "région": "PACA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [6.0678, 43.9353]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "boisement",
+          "superficie": 3.00,
+          "année": 2025,
+          "région": "Occitanie"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [1.4441, 43.6046]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "haies agricoles",
+          "superficie": 1.25,
+          "année": 2021,
+          "région": "Auvergne-Rhône-Alpes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.851, 45.751]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type de chantier": "boisement",
+          "superficie": 2.50,
+          "année": 2019,
+          "région": "Bourgogne-Franche-Comté"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.0166, 47.3168]
+        }
+      }
+    ]
+  }
